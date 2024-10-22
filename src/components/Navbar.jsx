@@ -157,10 +157,32 @@ function MobileNav({ isOpen, setIsOpen }) {
 
         {/* Mobile Nav Links */}
         <ul className="space-y-6 text-[#03130f]">
+          <li className="text-lg hover:text-[#004733]">
+            <Link href="/" legacyBehavior>
+              <a onClick={() => setIsOpen(false)}>Home</a>
+            </Link>
+          </li>
           <li className="text-lg hover:text-[#004733]">Buy</li>
           <li className="text-lg hover:text-[#004733]">Refinance</li>
           <li className="text-lg hover:text-[#004733]">HELOC</li>
           <li className="text-lg hover:text-[#004733]">Rates</li>
+          
+          {/* Add dropdown items as individual links */}
+          <li className="text-lg hover:text-[#004733]">
+            <Link href="/about" legacyBehavior>
+              <a onClick={() => setIsOpen(false)}>About Us</a>
+            </Link>
+          </li>
+          <li className="text-lg hover:text-[#004733]">
+            <Link href="/calculator" legacyBehavior>
+              <a onClick={() => setIsOpen(false)}>Mortgage Calculator</a>
+            </Link>
+          </li>
+          <li className="text-lg hover:text-[#004733]">
+            <Link href="/start" legacyBehavior>
+              <a onClick={() => setIsOpen(false)}>Start Page</a>
+            </Link>
+          </li>
         </ul>
       </div>
     </>

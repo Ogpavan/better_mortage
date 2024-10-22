@@ -63,7 +63,7 @@ export default function Page() {
                     <div className="space-y-4">
                         <h1 className="text-2xl font-semibold">The status quo is broken</h1>
                         <p className="text-sm text-gray-800 w-[70%]">
-                            The traditional processes around homeownership are opaque and stressful. Fees aren  transparent, and some are simply outrageous. Traditional mortgage lending is rife with unnecessary fees and slow, painful processes. It  a system set up to benefit insiders — not you. Better.com CEO, Vishal Garg, set out to change that.
+                            The traditional processes around homeownership are opaque and stressful. Fees arent  transparent, and some are simply outrageous. Traditional mortgage lending is rife with unnecessary fees and slow, painful processes. It  a system set up to benefit insiders — not you. Better.com CEO, Vishal Garg, set out to change that.
                         </p>
                         <button className="bg-[#186650] text-white px-4 py-2 rounded">
                             Read Vishal story
