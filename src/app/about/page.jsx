@@ -51,7 +51,7 @@ export default function Page() {
                 <div className="flex flex-col items-center justify-center h-full">
                     <h1 className="text-3xl font-semibold text-[#1d6c56fc]">Our mission</h1>
                     <p className="flex flex-col items-center justify-center text-4xl font-semibold mt-2 text-[#353837]">
-                        <span>We’re making homeownership simpler, faster —</span>
+                        <span>We are making homeownership simpler, faster —</span>
                         <span>and most importantly, more accessible for all</span>
                         <span>Americans.</span>
                     </p>
@@ -63,10 +63,10 @@ export default function Page() {
                     <div className="space-y-4">
                         <h1 className="text-2xl font-semibold">The status quo is broken</h1>
                         <p className="text-sm text-gray-800 w-[70%]">
-                            The traditional processes around homeownership are opaque and stressful. Fees aren’t transparent, and some are simply outrageous. Traditional mortgage lending is rife with unnecessary fees and slow, painful processes. It’s a system set up to benefit insiders — not you. Better.com CEO, Vishal Garg, set out to change that.
+                            The traditional processes around homeownership are opaque and stressful. Fees aren  transparent, and some are simply outrageous. Traditional mortgage lending is rife with unnecessary fees and slow, painful processes. It  a system set up to benefit insiders — not you. Better.com CEO, Vishal Garg, set out to change that.
                         </p>
                         <button className="bg-[#186650] text-white px-4 py-2 rounded">
-                            Read Vishal&apos;s story
+                            Read Vishal story
                         </button>
                     </div>
                     <div className="border">

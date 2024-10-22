@@ -29,7 +29,7 @@ export default function page() {
             </div>
             <div className="flex-1  ">
               <h1 className="text-[#03140f] md:text-7xl text-5xl font-semibold flex flex-col pb-5">
-              <span>Find out why</span><span>we’re better.</span> 
+              <span>Find out why</span><span>we&apos;re better.</span> 
               </h1>
               <button className="text-white md:px-8 md:py-4 px-4 py-2 rounded-full bg-[#004733] ">see all or stories</button>
               <p className="text-[#525252] md:pt-4 text-sm ml-3 mb-10 md:mb-0">Excellent 4.4 out of 5</p>
@@ -39,7 +39,7 @@ export default function page() {
          <section className="bg-white py-10 ">
           <div className="flex items-center justify-evenly md:flex-row flex-col">
             <h1 className="text-[#031610] md:text-5xl text-3xl font-semibold flex flex-col pb-5">
-            <span>Got Questions?</span><span>We've got answers.</span> 
+            <span>Got Questions?</span><span>We&apos;ve got answers.</span> 
             </h1>
             <div className="flex gap-2 flex-wrap justify-center">
             <button className=" px-4 py-2 rounded-full border-4 text-[#004733] border-[#004733] text-sm ">Our Product</button>
