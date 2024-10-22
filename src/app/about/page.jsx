@@ -66,8 +66,9 @@ export default function Page() {
               The traditional processes around homeownership are opaque and stressful. Fees aren’t transparent, and some are simply outrageous. Traditional mortgage lending is rife with unnecessary fees and slow, painful processes. It’s a system set up to benefit insiders — not you. Better.com CEO, Vishal Garg, set out to change that.
             </p>
             <button className="bg-[#186650] text-white px-4 py-2 rounded">
-              Read Vishal's story
-            </button>
+  Read Vishal&apos;s story
+</button>
+
           </div>
           <div className="border">
             <img
